@@ -1,2 +1,2 @@
-# Air-Quality-Classification
-A Big Data project that analyzes air quality data from Saudi cities using Apache Spark and machine learning. The project processes large datasets, performs data preprocessing and feature engineering, builds classification models, evaluates their performance, and includes a research paper documenting the methodology and results.
+# Air Quality Classification
+This project was developed as a university team project. We analyzed air quality data from Saudi cities using Apache Spark and machine learning. As a team, we cleaned and prepared the data, built classification models, evaluated their performance, and documented our work in a research paper. The project gave us hands-on experience in applying Big Data techniques to solve a real-world problem.
